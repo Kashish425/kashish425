@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-- 🌱 I’m currently learning: Data Analytics using Python & Excel  
+- 🌱 I’m currently Looking for opportunities.
 - 💻 I’ve completed internships in Machine Learning and Full Stack Web Development  
 - 📁 I participated in virtual job simulations from Deloitte and Quantium on Forage  
 - 📈 I want to become a confident Data Analyst  
