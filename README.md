@@ -17,17 +17,15 @@
 ---
 
 ## 🛠️ Skills I'm Learning
-
-- Python (pandas, matplotlib)  
 - Microsoft Excel  
-- SQL (basic queries)  
-- Power BI  
+- SQL   
+- Power BI
+- Python (pandas, matplotlib)
 - Git & GitHub
 
 ---
 
-> 📌 This GitHub is where I share what I'm learning and building.  
-> I'm excited to grow step by step into the data world 🚀
+
 
 
 
