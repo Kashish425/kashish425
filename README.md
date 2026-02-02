@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Skills I'm Learning
+## 🛠️ Skills 
 - Microsoft Excel  
 - SQL   
 - Power BI
